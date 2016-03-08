@@ -7,7 +7,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 
-public class JFrameClickEventExample extends JFrame implements MouseListener {
+public class HideNSeek extends JFrame implements MouseListener {
 	public JLabel label;
 	int wins;
 	static URL url = ScrollingLetter.class.getResource("TeaNCode.png");
